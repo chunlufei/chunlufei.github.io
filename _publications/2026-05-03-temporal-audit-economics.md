@@ -3,10 +3,10 @@ title: "The Temporal Audit of Economics（《经济学的时间审计》）"
 collection: publications
 category: books
 permalink: /publication/2026-05-03-temporal-audit-economics
-excerpt: 'Volume II of the trilogy on temporal economics. This book applies the unified temporal criterion developed in Volume I to diagnose the limits of resource-based economics. It conducts a systematic temporal audit of standard economic models, identifying the points at which classical resource accounting silently presupposes temporal conditions that may not hold. Written in Chinese (中文专著). Open-access edition on Zenodo.'
+excerpt: 'Volume II of the trilogy on temporal economics. This book applies the unified temporal criterion developed in Volume I to diagnose the limits of resource-based economics. It conducts a systematic temporal audit of standard economic models, identifying the points at which classical resource accounting silently presupposes temporal conditions that may not hold. Available in both Chinese (中文版) and English editions on Zenodo (Open Access).'
 date: 2026-05-03
 venue: 'Zenodo (Open Access)'
-paperurl: 'https://doi.org/10.5281/zenodo.19191383'
+paperurl: 'https://doi.org/10.5281/zenodo.19992903'
 citation: 'Fei, Chunlu. (2026). <i>The Temporal Audit of Economics (经济学的时间审计)</i>. Volume II of the Temporal Economics Trilogy. Zenodo.'
 ---
 
@@ -23,6 +23,9 @@ The book examines several domains:
 
 The audit identifies a recurring pattern: many results in resource-based economics depend on tacit temporal premises that are not stated, not tested, and increasingly not satisfied by the systems being modeled. The volume thereby clears the ground for the unified temporal framework that the trilogy as a whole develops.
 
-The book is written in Chinese (中文) and released as open access on Zenodo.
+The book is available as open access on Zenodo in both Chinese (original) and English editions.
 
-**Read the full book on Zenodo:** [https://doi.org/10.5281/zenodo.19191383](https://doi.org/10.5281/zenodo.19191383)
+### Open-access editions on Zenodo
+
+- **中文版 (Chinese edition):** [https://doi.org/10.5281/zenodo.19992903](https://doi.org/10.5281/zenodo.19992903)
+- **English edition:** [https://doi.org/10.5281/zenodo.19993102](https://doi.org/10.5281/zenodo.19993102)

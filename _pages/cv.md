@@ -3,11 +3,11 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+独立研究者，费城，美国。
+
+*Independent Researcher · Philadelphia, USA.*
 
 Education
 ======

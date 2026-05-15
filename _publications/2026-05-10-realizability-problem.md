@@ -23,3 +23,13 @@ Standard economic analysis has tended to collapse the third level into the secon
 The argument has direct implications for the evaluation of policy proposals, the design of institutions, and the longer-term reform of macroeconomic and growth theory. The paper situates the realizability problem within the broader research program of temporal economics, of which it is a central pillar.
 
 **Read the full paper on SSRN:** [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6744418](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6744418)
+---
+
+【中文简介】
+
+本文将"可实现性问题"确立为经济学中一个被系统性忽视的基础性问题：经济模型所描述的均衡、配置与动态路径，在现实经济系统中究竟能否真正**实现**？
+
+本文区分三个层次：数学可解性、理论可行性、**实践可实现性**。标准经济分析长期将第三个层次折叠进第二个层次——将可实现性等同于激励相容或信息结构问题。本文指出，这种折叠掩盖了一类独特的失败：某个结果在数学上成立、理论上可行，却在系统可用的时间内**结构性地无法实现**。
+
+**完整版（英文）请见 SSRN：**
+[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6744418](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6744418)

@@ -3,7 +3,7 @@ title: "Temporal Feasibility and the Limits of Resource-Based Economics"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-05-10-temporal-feasibility-resource-economics
-excerpt: 'This paper develops the concept of temporal feasibility as a binding constraint on economic systems, and uses it to delineate the limits of resource-based economics. While standard economic analysis treats resources as the primary scarcity, this paper argues that the temporal capacity to coordinate, allocate, and adjust is an equally fundamental and often more binding constraint — one that resource-based frameworks systematically under-recognize.'
+excerpt: 'This paper develops the concept of temporal feasibility as a binding constraint on economic systems, and uses it to delineate the limits of resource-based economics. While standard economic analysis treats resources as the primary scarcity, this paper argues that the temporal capacity to coordinate, allocate, and adjust is an equally fundamental and often more binding constraint — one that resource-based frameworks systematically under-recognize.（含中文简介）'
 date: 2026-05-10
 venue: 'SSRN Working Paper'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6744038'

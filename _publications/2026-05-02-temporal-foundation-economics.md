@@ -3,7 +3,7 @@ title: "The Temporal Foundation of Economics（《经济学的时间基础》）
 collection: publications
 category: books
 permalink: /publication/2026-05-02-temporal-foundation-economics
-excerpt: 'Volume I of the trilogy on temporal economics. This book establishes the formal theory of temporal feasibility, temporal equilibrium, and the shadow cost of time. It reconstructs economic feasibility under the dual constraints of resources and time, treating time not as a background parameter but as an endogenous and binding condition of economic life. Available in both Chinese (中文版) and English editions on Zenodo (Open Access, 348+ downloads as of May 2026).'
+excerpt: 'Volume I of the trilogy on temporal economics. This book establishes the formal theory of temporal feasibility, temporal equilibrium, and the shadow cost of time. It reconstructs economic feasibility under the dual constraints of resources and time, treating time not as a background parameter but as an endogenous and binding condition of economic life. Available in both Chinese (中文版) and English editions on Zenodo (Open Access, 348+ downloads as of May 2026).（含中文简介）'
 date: 2026-05-02
 venue: 'Zenodo (Open Access)'
 paperurl: 'https://doi.org/10.5281/zenodo.19198350'

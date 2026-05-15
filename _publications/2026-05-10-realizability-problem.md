@@ -3,7 +3,7 @@ title: "The Realizability Problem in Economics"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-05-10-realizability-problem
-excerpt: 'This paper formulates and analyzes the realizability problem in economics: the gap between what economic theory describes as feasible and what economic systems can actually realize under finite coordination capacity and binding temporal constraints. The paper argues that much of modern economics has conflated mathematical solvability with real-world realizability, and develops a framework for distinguishing the two.'
+excerpt: 'This paper formulates and analyzes the realizability problem in economics: the gap between what economic theory describes as feasible and what economic systems can actually realize under finite coordination capacity and binding temporal constraints. The paper argues that much of modern economics has conflated mathematical solvability with real-world realizability, and develops a framework for distinguishing the two.（含中文简介）'
 date: 2026-05-10
 venue: 'SSRN Working Paper'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6744418'

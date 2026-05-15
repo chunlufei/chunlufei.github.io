@@ -26,3 +26,25 @@ The book is available as open access on Zenodo in both Chinese (original) and En
 
 - **中文版 (Chinese edition):** [https://doi.org/10.5281/zenodo.19198350](https://doi.org/10.5281/zenodo.19198350)
 - **English edition:** [https://doi.org/10.5281/zenodo.19191382](https://doi.org/10.5281/zenodo.19191382)
+---
+
+【中文简介】
+
+本书为《经济学的时间的研究》三卷本第一卷，构建时间经济学的正式理论基础。
+
+本书引入三个核心概念：
+
+**时间可行性**——任何经济计划必须在承载它的主体与制度的时间能力范围内可实现；
+
+**时间均衡**——系统协调能力与加诸其上的时间需求动态匹配的状态；
+
+**时间的影子成本**——当时间约束被违反时，经济系统隐性付出的代价，表现为协调失灵、决策错位与制度可靠性的侵蚀。
+
+将时间作为内生约束而非被动背景，本书重新框定了经济理论中的若干长期问题：有限协调能力下的优化边界、周期性危机的结构根源，以及经济可行性得以持续的条件。
+
+本书中英文版均在 Zenodo 开放获取，截至2026年5月下载量已逾348次。
+
+**开放获取版本：**
+
+- 中文版：[https://doi.org/10.5281/zenodo.19198350](https://doi.org/10.5281/zenodo.19198350)
+- English edition：[https://doi.org/10.5281/zenodo.19191382](https://doi.org/10.5281/zenodo.19191382)

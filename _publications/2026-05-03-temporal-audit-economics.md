@@ -3,7 +3,7 @@ title: "The Temporal Audit of Economics（《经济学的时间审计》）"
 collection: publications
 category: books
 permalink: /publication/2026-05-03-temporal-audit-economics
-excerpt: 'Volume II of the trilogy on temporal economics. This book applies the unified temporal criterion developed in Volume I to diagnose the limits of resource-based economics. It conducts a systematic temporal audit of standard economic models, identifying the points at which classical resource accounting silently presupposes temporal conditions that may not hold. Available in both Chinese (中文版) and English editions on Zenodo (Open Access).'
+excerpt: 'Volume II of the trilogy on temporal economics. This book applies the unified temporal criterion developed in Volume I to diagnose the limits of resource-based economics. It conducts a systematic temporal audit of standard economic models, identifying the points at which classical resource accounting silently presupposes temporal conditions that may not hold. Available in both Chinese (中文版) and English editions on Zenodo (Open Access).（含中文简介）'
 date: 2026-05-03
 venue: 'Zenodo (Open Access)'
 paperurl: 'https://doi.org/10.5281/zenodo.19992903'

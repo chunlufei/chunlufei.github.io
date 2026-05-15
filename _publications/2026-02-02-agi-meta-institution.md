@@ -17,3 +17,18 @@ The paper traces three transformations: (i) the migration of judgment authority 
 By reframing AGI as a meta-institution, the paper connects technological transformation to the deeper concerns of institutional economics and political philosophy. The argument has direct implications for the governance of AI systems, the accountability of algorithmic decision-making, and the longer-term sustainability of human-machine social orders.
 
 **Read the full paper on SSRN:** [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6165207](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6165207)
+---
+
+【中文简介】
+
+本文提出，人工通用智能（AGI）不应被理解为一种先进工具，而应被视为一种**元制度**——从根本上重构判断形成、协调能力和社会秩序基础规则的制度性力量。
+
+工具主义视角无法捕捉当前正在发生的结构性变革。AGI 不仅仅是增强人类能力，它重组了判断、协调和社会秩序得以产生的根本条件。
+
+本文追踪三种核心转变：
+（一）判断权威从人类制度向算法系统的迁移；
+（二）协调能力的重新配置；
+（三）社会再生产基础规则的替代。
+
+**完整版（英文）请见 SSRN：**
+[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6165207](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6165207)

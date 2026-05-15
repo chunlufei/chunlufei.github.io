@@ -29,3 +29,19 @@ The book is available as open access on Zenodo in both Chinese (original) and En
 
 - **中文版 (Chinese edition):** [https://doi.org/10.5281/zenodo.19992903](https://doi.org/10.5281/zenodo.19992903)
 - **English edition:** [https://doi.org/10.5281/zenodo.19993102](https://doi.org/10.5281/zenodo.19993102)
+---
+
+【中文简介】
+
+本书为《经济学的时间的研究》三卷本第二卷，将第一卷建立的时间标准系统性地施加于现有经济学体系，对资源基础经济学展开全面的**时间审计**。
+
+本书对生产、配置、均衡与增长等标准经济学框架逐一追问同一个问题：这个模型隐含了什么时间前提？当这些前提不成立时会发生什么？
+
+审计揭示了一个反复出现的模式：资源基础经济学的诸多核心结论，依赖于未经陈述、未经检验、且在现实系统中日益不被满足的时间性前提。这一发现为三卷本整体所构建的时间经济学统一框架清理了地基。
+
+本书中英文版均在 Zenodo 开放获取。
+
+**开放获取版本：**
+
+- 中文版：[https://doi.org/10.5281/zenodo.19992903](https://doi.org/10.5281/zenodo.19992903)
+- English edition：[https://doi.org/10.5281/zenodo.19993102](https://doi.org/10.5281/zenodo.19993102)

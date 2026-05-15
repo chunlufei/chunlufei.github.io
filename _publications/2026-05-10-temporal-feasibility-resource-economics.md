@@ -21,3 +21,13 @@ The paper develops three claims:
 The paper argues that incorporating temporal feasibility is not a minor extension of existing theory but a structural revision. It connects the analysis to the broader research program on temporal economics, of which this paper is a foundational component.
 
 **Read the full paper on SSRN:** [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6744038](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6744038)
+---
+
+【中文简介】
+
+本文提出"时间可行性"作为约束经济系统的内生条件，以此划定资源基础经济学的结构性边界。标准经济分析将资源稀缺视为首要约束，本文则指出：协调、配置与调整的**时间能力**同样是根本性约束——且往往更具决定性——而资源基础框架对此系统性地认识不足。
+
+本文提出三个核心命题：时间是不可替代的经济资源；协调本身具有时间成本；资源经济学存在内在的"时间盲点"。
+
+**完整版（英文）请见 SSRN：**
+[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6744038](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6744038)
